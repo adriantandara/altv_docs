@@ -13,7 +13,10 @@ export default defineConfig({
             {
                 text: 'Introduction',
                 collapsed: false,
-                items: [{ text: 'About', link: '/' }],
+                items: [
+                    { text: 'About', link: '/' },
+                    { text: 'How can you contribute?', link: '/how-can-contribute' },
+                ],
             },
             {
                 text: 'Scripts',
