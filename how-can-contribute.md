@@ -4,7 +4,7 @@ title: How can I contribute?
 
 # How to Contribute
 
-Welcome to the contribution guide for our alt:V documentation site. Whether you're looking to add new content, fix issues, or improve existing documentation, your contributions are highly valued. This guide will help you through the process of contributing effectively.
+Welcome to the contribution guide for our alt:V unofficial documentation site. Whether you're looking to add new content, fix issues, or improve existing documentation, your contributions are highly valued. This guide will help you through the process of contributing effectively.
 
 :::warning
 It is mandatory to include your credits on any contribution page to our documentation. For example: **Documentation created by @github_username**.
